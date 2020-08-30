@@ -1,0 +1,33 @@
+input[type="text"]{
+    border:none;
+    background:transparent;
+    border-bottom: 1px solid white;
+    border-radius: 25px;
+}
+
+input[type="password"]{
+    border:none;
+    background:transparent;
+    border-bottom: 1px solid white;
+    border-radius: 25px;
+}
+
+input[type="date"]{
+    border:none;
+    background:transparent;
+    border-bottom: 1px solid white;
+    border-radius: 25px;
+}
+input[type="email"]{
+    border:none;
+    background:transparent;
+    border-bottom: 1px solid white;
+    border-radius: 25px;
+}
+a{
+    color:black;
+}
+
+::placeholder{
+    color:black;
+}
